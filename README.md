@@ -155,6 +155,4 @@ While the franchise initially focused heavily on the **Barbie character itself**
 
 # Author
 Sibankar Saha
-Such analysis highlights how **data science can be used to study trends in entertainment media and character development**.
-
 ---
